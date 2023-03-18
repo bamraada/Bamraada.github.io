@@ -1,0 +1,98 @@
+body{
+    background-color: #381313;
+    
+}
+#menu{
+    background-image: url(R.jpeg);
+    background-size: cover;
+    padding-bottom: 40%;    
+ }
+ label.logo span{
+    color: #fff;
+ }
+ form{
+    padding: 35px;
+    text-align: right;
+ }
+.fr{
+    width: 80px;
+}
+ label.logo{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(11, 180, 68);
+    padding: 0 100px;
+    line-height: 80px;
+   left: auto;
+ }
+
+li{
+    display: inline-block;
+    color: white;
+    padding: 10px;   
+}
+.ada{
+   
+    position: absolute;
+    top: 60%;
+    left: 50%;
+        transform: translate(-50%,-50%);
+        font-weight: bold;
+        font-size: 30px;
+       color: rgb(3, 0, 0);
+      
+}
+#contenu{
+   
+    height: 1900px;
+    padding-bottom: 50px;
+    background-image: url(depositphotos_44641441-stock-photo-hand-drawing-vacation-trip-around.jpg);
+    background-size: cover;
+}
+#pied{
+    background-color: rgb(161, 170, 168);
+   height: 40px;
+  
+   
+}
+li:hover{
+    background-color: gray;
+    transition: 00.6s ease;
+    flex-direction: 5px;
+} 
+   .ak{
+    color: rgb(173, 173, 163);
+    background-color: yellow;}
+    
+  .op{
+    margin: auto;
+  }
+  .ll{
+    width: 800px;
+    height: 400px;
+  }
+
+ img.mg{
+    width: 600px;
+    height: 500px;
+    
+}
+img.mg:hover{
+    transform: scale(1.2);
+    border: 1 px solid #fff;
+}
+li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px ;
+    font-style: italic;
+}
+li a:hover{
+    color: yellow;
+}
+
+
+    
+    

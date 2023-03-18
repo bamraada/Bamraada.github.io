@@ -1,0 +1,115 @@
+body{
+    
+    background-image: url(tourisme-voyage-durable-responsable.jpg);
+    background-size: cover;  
+}
+#conteneur{
+  
+    height: 500px;
+    
+    width: auto;
+    margin-right: 0px;
+}
+#menu{
+    
+    width: 99%;      
+}
+#pied{
+   
+padding-bottom: 10px;
+height: 40px;}
+h1.KO{
+    color: #fff;
+    float: right;
+    font-weight: bold;}
+h1 a{
+    color: #222020;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 50px; 
+    text-transform: uppercase;
+    text-decoration: line-through;
+   
+   
+ }
+img{
+    width: 480px;
+}
+li{
+    display: inline-block; 
+    padding: 20px;
+    border: 1px solid oldlace;
+   }
+    
+    li a{ 
+       
+       font-size: 16px;
+       text-transform: uppercase;
+       height: auto;
+       font-weight: bold;
+       text-decoration: none;
+    }
+    li:hover{
+         
+        background-color: #fff;
+    height: 2px;
+    flex-direction: 5px;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    border: 1px soli rgb(8, 8, 7);
+    transition: 00.6s ease;     
+    }
+    .titre{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        
+    }
+    .bouton{
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .titre h1{
+        font-size: 70px;
+        color: rgb(14, 11, 6) ;
+        font-style: oblique;
+        text-decoration: underline;
+        font-family: 'Courier New', Courier, monospace;
+       
+    }
+   
+    .bouton a{
+        color: #fff;
+      text-decoration: none;
+        border: 1px solid #fff;
+        padding: 10px 20px ;
+        }
+    
+        .btn{
+            transition: 00.6s ease;
+         }
+         .btn:hover{
+           background-color: #fff; 
+           color: black; 
+         }
+         .bouton:hover{
+            color: black;
+         }
+        
+        
+         
+   
+ 
+        
+    
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,84 @@
+body{
+    background-image: url(new\ york.jpeg);
+    background-size: cover;
+}
+#menu{
+    padding-top: 10px;
+height: 50px;
+padding-bottom: 500px;
+background-image: url(Liberty_Island_photo_D_Ramey_Logan.jpg);
+background-size: cover;
+
+}
+li{
+    display: inline-block;
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+}
+#contenu{
+    background-color: #a2d6d6;
+    right: 101px;
+    height: 1600px;
+   padding-bottom: 40px;
+   
+}
+#pied{
+    
+    height: 40px;
+    padding-top: 10px
+   
+}
+li:hover{
+    background-color: rgb(102, 102, 97);
+    height: 2px;
+    flex-direction: 5px;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    border: 1px soli oldlace;
+    transition: 00.6s ease;  
+}
+h1.KO{
+    color: #fff;
+    float: right;
+    font-weight: bold;}
+img{
+    width: 500px;
+    height: 440px;
+    border: 2px solid #fff; 
+    border-color: #fff;
+}
+li a {
+    color: #030101;
+    font-size: 16px;
+    text-transform: uppercase;
+    height: auto;
+    font-weight: bold;
+    text-decoration: none;  
+}
+iframe{
+    width: 800 px;
+    height:400px;
+}
+ iframe.ame{
+    width: 900px;
+    height: 400px;
+}
+.drap{
+    width: 80px;
+    height:     40px;
+    float: right;
+  
+}
+.photo{
+    width: 700px;
+    height: 400px;
+    
+}
+
+
+    
+    

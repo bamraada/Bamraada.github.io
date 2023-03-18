@@ -1,0 +1,110 @@
+body{
+   
+    background-color: #fff;
+ background-size: cover;  
+      
+}
+form.b{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h2.pp{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: yellow;
+    float: left;
+    
+}
+input{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.ak{
+    color: rgb(173, 173, 163);
+    background-color: yellow;}
+.menu-ig-ul{
+   background-color: rgb(56, 56, 88);
+  margin-bottom: 10px;
+   padding-bottom: 400px;
+   margin-top: 100x;   
+}
+h2{
+    color: black;
+
+}
+img{
+    
+    display: block;
+    float: inline-end;
+   width: 700px;
+    border: 1px solid#8b8d87;
+    padding: 10px;
+    margin: auto;
+}
+h2.ada{
+    float: inline-start;
+    float: right;
+}
+
+h1{
+  color: rgb(235, 231, 17);
+  margin: auto;
+}
+.zz{
+    width: 80px;
+    float: right;
+}
+li{
+    display: inline-block;
+   
+    padding: 20px;
+}
+.menu-ig{ 
+    width: 100%; 
+
+}
+li:hover{
+     
+    background-color: #dac61a;
+    height: 2px;
+    flex-direction: 5px;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    border: 2px solid #fff;
+    transition: 00.6s ease;
+  
+}
+
+   form{
+    float: right;
+    background-color: none;
+   }
+
+li a{
+    text-decoration: none;
+    text-shadow: 10;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+      
+}
+#contenu{
+    right: 101px;
+    height: 1900px;
+  }
+  h1.KO{
+    color: black;
+    float: right;
+    font-weight: bold;
+  }
+    #pied{
+        background-color: rgb(240, 250, 248);
+       height: 40px;
+       padding-top: 10px;
+       
+    }
+

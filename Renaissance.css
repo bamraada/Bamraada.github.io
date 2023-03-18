@@ -1,0 +1,116 @@
+body{
+    background-color: #534040;
+}
+#menu{
+ height: 70px;
+ padding-bottom: 20px;
+ cursor: pointer;
+}
+   .photo{
+    width: 40%;
+    height: 30%;
+  float: right;
+ 
+   } 
+   li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff; 
+   }
+   .aa{
+    float: right;
+   }
+  .po{
+    color: #13b113;
+   }
+   .if{
+    width: 683;
+    height: 384;
+   }
+   .yy{
+    
+   }
+.photo:hover{
+    transform: scale(1.2);
+}
+.ou{
+font-weight: bold;
+font-size: 50px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+color: black;
+top: 30%;
+
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+    color:#fff;
+    top: 200%;
+    line-height: 80px;}
+
+ li{
+    display: inline-block;
+    padding: 20px;
+    float: right; 
+ 
+}
+#contenu{
+    margin: auto;
+    right: 101px;
+    height: 1500px;
+   padding-top: 300px;
+    background-color: #fff;
+left:  -200px;
+}
+#pied{
+    background-color: rgb(168, 112, 39);
+   height: 40px;
+   padding-top: 10px;
+   padding-bottom: 65px;  
+}
+li:hover{
+   background-color: darkslateblue;
+    height: 2px;
+    flex-direction: 5px;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    border: 1px soli rgb(8, 8, 7);
+    transition: 0.5s;
+    }
+    .gg{
+        float: right;
+    }
+    .mn:hover{
+        transform: scale(1.2);
+        border: 1px solid#fff; 
+    }
+    h1.KO{
+        color: #fff;
+        float: right;
+        font-weight: bold;}
+    .mn{
+        width: 400px;
+        height: 300px;
+        border: 3px solid #fff;
+        margin: auto;
+    }
+    .tt{
+        width: 500px;
+        height: 400px;
+        margin: auto;
+       
+    }
+ 
+
+
+
+
+
+    
+    
